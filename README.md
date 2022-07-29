@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Oliver31Batista/Oliver31Batista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
