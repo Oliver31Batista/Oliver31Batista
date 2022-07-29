@@ -4,7 +4,7 @@
 **Oliver31Batista/Oliver31Batista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ```JS
-const thai = {
+const oliver = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, C#, Python, Java],
   tools: [React, NextJS, Node, Git, MaterialUI, BootsTrap],
