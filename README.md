@@ -9,9 +9,12 @@ const thai = {
   code: [Javascript, Typescript, HTML, CSS, C#, Python, Java],
   tools: [React, NextJS, Node, Git, MaterialUI, BootsTrap],
   techCommunities: {
-                        languages: "spanish, english",
+                        languages: {
+                                      'spanish', 
+                                      'english'
+                                   },
                         mentor: "IntellisysDCorp"
-                      },
+                   },
  challenge: "I am learning MERN Stack and I'm focus in react and how I can implement the components and hooks in the best way"
 }
 ```
