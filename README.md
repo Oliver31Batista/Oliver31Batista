@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **the MERN Stack**
 
-- 👨‍💻 All of my projects are available at [inprogress.com](inprogress.com)
+- 👨‍💻 All of my projects are available at [https://oliver-batista-portfolio.netlify.app(https://oliver-batista-portfolio.netlify.app)
 
 - 💬 Ask me about **react, mongo, express, node, javaScript, css, html**
 
