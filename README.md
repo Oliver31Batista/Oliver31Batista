@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliver31batista&label=Profile%20views&color=0e75b6&style=flat" alt="oliver31batista" /> </p>
 
-- 🔭 I’m currently working on a website about Pokemons [Pokefans Site](https://github.com/Oliver31Batista/Pokefans-frontend.git)
+- 🔭 I’m currently working on some **projects with HTML, CSS, JS and React**
 
-- 🌱 I’m currently learning **the MERN Stack**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [Oliver Batista Portfolio](https://oliver-batista-portfolio.netlify.app)
 
