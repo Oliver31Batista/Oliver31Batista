@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, mongo, express, node, javaScript, css, html**
 
-- 📫 How to reach me **ohenriquez@intellisys.com.do**
+- 📫 How to reach me **oliver31batista@gmail.com**
 
 - 🦦 Fun fact -> **I love all music without exceptions, I think that the rythm is the important part, lyrics doesnt matter for me**
 
