@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on some **projects with NextJS, Laravel, Angular and React**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular and NextJS**
 
 - 👨‍💻 All of my projects are available at [Oliver Batista Portfolio](https://oliver-batista-portfolio.netlify.app)
 
-- 💬 Ask me about **react, mongo, express, node, javaScript, css, html**
+- 💬 Ask me about **nextjs, angular, react, mongo, sql, express, node, javaScript, typescript, css, scss, html**
 
 - 📫 How to reach me **oliver31batista@gmail.com**
 
