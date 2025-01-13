@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliver31batista&label=Profile%20views&color=0e75b6&style=flat" alt="oliver31batista" /> </p>
 
-- 🔭 I’m currently working on some **projects with HTML, CSS, JS and React**
+- 🔭 I’m currently working on some **projects with NextJS, Laravel, Angular and React**
 
 - 🌱 I’m currently learning **React**
 
