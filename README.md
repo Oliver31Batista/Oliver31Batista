@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular and NextJS**
 
-- 👨‍💻 All of my projects are available at [Oliver Batista Portfolio](https://oliver-batista-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [Oliver Batista Portfolio](https://oliver31batistaexe.vercel.app)
 
 - 💬 Ask me about **nextjs, angular, react, mongo, sql, express, node, javaScript, typescript, css, scss, html**
 
