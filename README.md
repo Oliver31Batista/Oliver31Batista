@@ -1,32 +1,144 @@
-<h1 align="center">Hi 👋, 👻I'm Oliver Batista👽</h1>
-<h3 align="center">A passionate Full Stack developer from Dominican Republic</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oliver31batista&label=Profile%20views&color=0e75b6&style=flat" alt="oliver31batista" /> </p>
+# 👋 Hey, I'm Oliver Batista
 
-- 🔭 I’m currently working on some **projects with NextJS, Laravel, Angular and React**
+### Frontend Developer · Full Stack Developer · Software Builder
 
-- 🌱 I’m currently learning **Angular and NextJS**
+📍 Dominican Republic 🇩🇴
 
-- 👨‍💻 All of my projects are available at [Oliver Batista Portfolio](https://oliver31batistaexe.vercel.app)
+I build modern web applications focused on  
+**performance, usability, maintainability and great user experiences.**
 
-- 💬 Ask me about **nextjs, angular, react, mongo, sql, express, node, javaScript, typescript, css, scss, html**
+<br/>
 
-- 📫 How to reach me **oliver31batista@gmail.com**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://oliver31batistaexe.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliver31batista@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-oliver31batista-181717?style=for-the-badge&logo=github)](https://github.com/oliver31batista)
 
-- 🦦 Fun fact -> **I love all music without exceptions, I think that the rythm is the important part, lyrics doesnt matter for me**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/batista oliver henriquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batista oliver henriquez" height="30" width="40" /></a>
-<a href="https://fb.com/batista oliver henriquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="batista oliver henriquez" height="30" width="40" /></a>
-<a href="https://instagram.com/oliver31batista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oliver31batista" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?username=oliver31batista&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a software developer from the Dominican Republic with professional experience building and maintaining modern web applications.
+
+My main focus is **Frontend Development**, although I also work comfortably across the full stack — from designing reusable interfaces to building APIs, databases, authentication flows and deployment environments.
+
+I enjoy turning real-world problems into practical software, especially products that involve:
+
+- 🖥️ Modern web applications
+- 📱 Responsive and mobile-first interfaces
+- 🧩 Reusable component architectures
+- 🔌 REST & GraphQL API integrations
+- 🗄️ Relational and NoSQL databases
+- 🐳 Containerized development environments
+- ⚡ Performance and UX optimization
+- 🧪 Testing and maintainable code
+- 🚀 Building products from idea to working prototype
+
+---
+
+## ⚡ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css,sass,tailwind,redux,vite" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"><br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Backend
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliver31batista&show_icons=true&locale=en&layout=compact" alt="oliver31batista" /></p>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oliver31batista&show_icons=true&locale=en" alt="oliver31batista" /></p>
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oliver31batista&" alt="oliver31batista" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis" />
+</p>
+
+### Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode,npm" />
+</p>
+
+### Testing & Engineering
+
+`Jest` · `React Testing Library` · `REST APIs` · `GraphQL` · `Responsive Design` · `WCAG / Accessibility` · `Agile / Scrum` · `Code Reviews`
+
+---
+
+## 🚀 What I'm Building
+
+I like working on projects that go beyond simple CRUD applications and solve actual problems.
+
+### 🚌 Real-Time Transportation Platform
+
+A transportation ecosystem composed of a **web administration dashboard and mobile applications** for drivers and passengers.
+
+**Focus:** real-time location, route management, transportation monitoring and mobile UX.
+
+`React` `Next.js` `React Native` `Expo` `APIs`
+
+---
+
+### 🏋️ Gym Management System
+
+A **tablet-first management platform** designed for local gyms to simplify member registration, attendance, products and gym equipment management.
+
+**Focus:** simple UX, fast workflows and local-first data management.
+
+`React` `TypeScript` `Responsive UI`
+
+---
+
+### 🎮 EggStrike Arena
+
+A browser-based FPS built as an experiment in game development and interactive web technologies.
+
+Features include weapons, bots, hit detection, respawning, scoring, kill feed, audio systems and game state management.
+
+`TypeScript` `Three.js` `Vite` `Node.js` `Express`
+
+---
+
+### 🎓 Registration & Admissions Systems
+
+Web platforms involving multi-step forms, authentication flows, database persistence, backend APIs and production deployments.
+
+`Next.js` `Node.js` `Express` `Prisma` `PostgreSQL`
+
+---
+
+## 🧠 Currently Exploring
+
+I'm continuously improving my knowledge around:
+
+- Advanced frontend architecture
+- Application performance
+- Scalable React & Angular patterns
+- Accessibility
+- System design
+- Cloud & deployment workflows
+- AI-assisted software development
+
+---
+
+## 🎯 What I Bring to a Team
+
+```text
+✓ Strong frontend foundations
+✓ Experience working with real production applications
+✓ Ability to work across frontend and backend
+✓ Product-oriented mindset
+✓ Fast learner and technology enthusiast
+✓ Comfortable debugging complex problems
+✓ Experience translating requirements into working software
+✓ Strong interest in performance, UX and maintainable code
